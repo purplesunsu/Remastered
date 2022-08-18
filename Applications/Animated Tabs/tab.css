@@ -1,0 +1,11 @@
+@import url("https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWgxS1k5NjkwVmh4SWUyMGdmTG5uZmt0ZjZCQXxBQ3Jtc0ttVXN3TW8yeDdOc3lUU29YbE9ZRW44dXI2d25hY041UDBWZHBpWkJZNk1pNWpibUpkZzJmQV9BVV9iaTAtQnk0c3lIVHpqY0I5RWFTNnJxNHJwT3lMTzd4Q2dIc2JGYkRhaHNNaFNRbVRRU1owTUM0RQ&q=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%3A300%2C400%2C500%2C700%26subset%3Dcyrillic&v=f35uptlDVxo");
+
+body {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height:100vh;
+  width: 100%;
+  transition: 0.5s;
+  overflow: hidden;
+}
