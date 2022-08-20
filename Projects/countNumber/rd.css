@@ -1,0 +1,19 @@
+#countLabel {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 5rem;
+}
+
+div, button {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 13px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+div, button:hover {
+  background: linear-gradient(to right, blue, yellow);
+}
